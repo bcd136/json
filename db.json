@@ -1,3 +1,7 @@
 {
-    "nazwa" : "wartosc"
+    "posts" : [
+	{
+	    "nazwa": "wartosc"
+	}
+    ]
 }
