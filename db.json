@@ -1,5 +1,8 @@
 {
   "posts": [
-      { "nazwa" : "wartość" }
+      {
+	  "nazwa" : "name",
+	  "nazwa1" : "name1"
+      }
   ]
 }
