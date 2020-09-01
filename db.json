@@ -1,6 +1,7 @@
 {
   "posts": [
       {
+	  "id" : "1",
 	  "nazwa" : "name",
 	  "nazwa1" : "name1"
       }
